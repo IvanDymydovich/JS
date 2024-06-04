@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Express App: Add new Product</title>
+</head>
+<body>
+    <h3>Create New Product</h3>
+        <form id="form">
+            <div class="row">
+                <div class="col-25">
+                    <label for="model">Введіть модель телефону</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="model" name="model" placeholder="Model product">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="version">Введіть версію телефону</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="version" name="version" placeholder="Version product">
+                </div>
+            </div>
+
+            <div class="container">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+
+    <script type="text/javascript" src="scripts/create.js"></script>
+</body>
+</html>

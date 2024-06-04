@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>���������� JavaScript</title>
+
+    <script type="text/javascript">
+
+        function findStringOnce(arr) {
+            var obj = {};
+            for (let i = 0; i < arr.length; i++) {
+                for (let j = i + 1; j < arr.length + 1; j++) {
+                    if (arr[i] !== arr[j]) {
+                        obj[arr[i]] = arr[i];
+                    }
+
+                }
+
+            }
+
+            return Object.keys(obj);
+        }
+
+
+        var initialArr = ["First", "Second", "First", "Third", "Fourth", "Fourth"];
+
+        var strings = findStringOnce(initialArr);
+
+        console.log("Initial array: " + initialArr.join(', '));
+        console.log("</br>");
+        console.log("Unique elements: " + strings.join(', '));
+
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

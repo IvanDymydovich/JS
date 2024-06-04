@@ -1,0 +1,40 @@
+﻿<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+        class Circle {
+            constructor(radius) {
+                this.radius = radius;
+            }
+
+            area() {
+                return Math.PI * this.radius * 2;
+            }
+
+            static max(circle1, circle2) {
+                if (circle1.radius > circle2.radius) {
+                    return circle1;
+                } else {
+                    return circle2;
+                }
+            }
+        }
+
+
+        var circle1 = new Circle(10);
+
+        document.write("circle1 area = " + circle1.area());
+
+        var circle2 = new Circle(15);
+
+        var maxCircle = Circle.max(circle1, circle2);
+
+        document.write("</br>max circle radius = " + maxCircle.radius); 
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+﻿<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+        function sum(arr) {
+            var suma = 0;
+            for (let i = 0; i < arr.length; i++) {
+
+                if (arr[i] == null && arr[i] == undefined) {
+
+                }
+                else {
+                    suma += arr[i]
+                }
+            }
+            return suma;
+        }
+
+        var result = sum([1, 2, null, undefined, 3]);
+        alert(result); // output "6"
+
+        result = sum({ "0": 5, "1": 10, "2": 15, length: 3 });
+        alert(result); // output 30
+
+        result = sum([1, 2, 3, "string"]); // throw an error "sum(): arg should be numbers");
+    </script>
+</body>
+
+</html>

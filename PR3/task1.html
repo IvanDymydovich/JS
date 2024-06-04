@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task #1</title>
+</head>
+
+<body>
+
+    <div data-say-hi="yes">Привет!</div>
+
+    <script>
+        // Select the div element
+        const divElement = document.querySelector('div[data-say-hi]');
+
+        // Get the value of the data-say-hi attribute
+        const sayHiValue = divElement.getAttribute('data-say-hi');
+
+        // Output the value
+        console.log(sayHiValue);  // Should log: "yes"
+    </script>
+
+</body>
+
+</html>

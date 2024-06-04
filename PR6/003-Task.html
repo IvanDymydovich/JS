@@ -1,0 +1,47 @@
+﻿<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+
+        // Constructor of Calculator type
+        function Calculator() {
+
+            this.calculate = function (string) {
+                this.string = string;
+                var parts = string.split(' ');
+                var operator = parts[1];
+                var result;
+                if (operator == "+") {
+                    result = parseInt(parts[0]) + parseInt(parts[2]);
+                    return this.string + " = " + result;
+                } else if (operator == "-") {
+                    result = parseInt(parts[0]) - parseInt(parts[2]);
+                    return this.string + " = " + result;
+                    ;
+                } else if (operator == "*") {
+                    result = parseInt(parts[0]) * parseInt(parts[2]);
+                    return this.string + " = " + result;
+                    ;
+                } else {
+                    result = parseInt(parts[0]) / parseInt(parts[2]);
+                    return this.string + " = " + result;
+                }
+            }
+
+        }
+
+        var calc = new Calculator();
+
+        alert(calc.calculate("3 + 7")); // output 10
+        alert(calc.calculate("7 - 3")); // output 4
+
+        alert(calc.calculate("3 * 7")); // output 21
+        alert(calc.calculate("8 / 4")); // output 2
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+﻿<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+        var mulTable = [];
+
+        function createMultiplicationMatrix(mulTable) {
+            for (let i = 0; i <= 10; i++) {
+                mulTable[i] = [];
+                for (let j = 0; j <= 10; j++) {
+                    mulTable[i][j] = i * j;
+                }
+            }
+        }
+
+
+        createMultiplicationMatrix(mulTable);
+
+        console.log("3 * 9 = " + mulTable[3][9]); // Should show 3 * 9 = 27
+        console.log("</br>");
+        console.log("5 * 7 = " + mulTable[5][7]); // Should show 5 * 7 = 35
+
+
+    </script>
+</body>
+
+</html>

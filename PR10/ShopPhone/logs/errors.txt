@@ -1,0 +1,48 @@
+20240527	23:05:12	105f16b6-5a89-4b63-bf0e-5bed2160f5bc	ReferenceError: res is not defined
+20240527	23:08:03	a1c85fca-23bb-4556-a26c-434e63c737dc	SyntaxError: Expected property name or '}' in JSON at position 7
+20240527	23:14:56	fb8896c0-4232-4729-b0b7-8436ba18457d	SyntaxError: Expected ',' or '}' after property value in JSON at position 28
+20240527	23:26:28	6804a5fe-6657-4234-bb43-07d4d484320b	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:26:29	eeba70bd-4f44-4070-9e4c-f9ff22fb232d	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:26:30	3f1e0e97-87cf-4258-8a0e-2c687874593b	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:27:01	42afd3e6-efe7-4d5f-bec9-fa1a2e3c6e55	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:27:32	ada68f2e-9394-4e66-b8e6-3cfb7ea8ce78	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:27:32	3cf0966a-be13-47a7-96ef-f1e83d9be658	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:27:54	e7e88b4d-94e0-48df-8257-ff04bd644b55	ForbiddenError: Forbidden
+20240527	23:27:55	b879e137-dc9f-4b36-93b7-56935eb36436	ForbiddenError: Forbidden
+20240527	23:27:55	71b9558c-f64c-4bc0-87eb-12139db66d44	ForbiddenError: Forbidden
+20240527	23:31:13	a37ad99a-8f55-4a96-b91c-852aa4e05bd9	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\about.html'
+20240527	23:31:14	ef08adb6-78d2-465a-968a-888a94f17c55	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\about.html'
+20240527	23:31:14	5551b1ca-a701-4ca3-9004-4e0179ad4ab3	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\about.html'
+20240527	23:31:14	f06c2e21-9874-495a-8e12-fd0438ba8f2e	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\about.html'
+20240527	23:31:15	8e29a776-c6ee-461d-9d47-418c036faf9a	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\about.html'
+20240527	23:32:07	3ef0510d-7ffd-42e8-8e35-229441d69b5e	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:32:29	050f134d-b772-4921-9353-f1d73581295d	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:32:29	b3db0a7a-04e2-4567-ac92-5e407b4872f8	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:32:43	153a6e92-49ff-41b4-be7c-440f931f6192	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:32:46	bd395c98-8f50-4e32-8bd0-77abe6738d57	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:33:04	88c59692-6dc3-44bf-b91c-344fae19fa13	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:33:30	c95b2f79-dfc6-46ce-9a00-cd0ae7b3f4fe	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:38:45	3925c136-fbec-41fb-8ffa-fe41750bc7ce	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:39:25	85661a1f-d1db-45c2-8456-35e045e0f40d	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:39:25	c06b5ae8-fd3e-4326-81d4-59c0f8c7cd12	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:40:47	374151e9-ca80-4c7f-b9db-e88219ea1721	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:30	cf03c08e-8ea0-4ab6-b905-2371c250ffde	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:31	12ae5ad7-44e6-44dc-bc61-490af5972a1e	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:31	dc5b6999-9835-4937-a559-e1d0bdbfecc6	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:31	2fb5feb2-4edb-4cb6-8dce-415ce6fbd0f1	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:31	0300c94b-91da-4af0-a4c3-ff42fbae6fd3	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:32	4ea23d5a-7d98-434d-95ba-d4efb9ef64e3	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:32	045ab17c-7ffd-493e-881e-80bda1a5254f	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:32	5340cf8c-31be-4769-81d6-299bdfb05bdf	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:41:35	d21717f0-a360-4238-af22-06451b42f7ce	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:45:29	c4af12e5-2189-4503-9275-fd11bb157686	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:45:30	d3ec1c33-b71e-43c4-9225-e5f9ce668319	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:45:30	4f839d50-289c-423e-804a-d210543b1115	Error: ENOENT: no such file or directory, stat 'C:\Users\sasha\Desktop\Front_end\PR9ExpressDemo\routes\views\products.html'
+20240527	23:46:26	333052e5-5fad-4bac-a7c7-abb8a27289bc	Error: Can't set headers after they are sent.
+20240527	23:46:27	c6e95fa7-4c79-48ab-b2e7-80230521790f	Error: Can't set headers after they are sent.
+20240527	23:46:27	a25a9eac-59a0-416d-a034-6f90e22eb001	Error: Can't set headers after they are sent.
+20240603	19:04:06	26e20d97-b5ba-4868-8315-b0aed8291248	Error: Cannot set headers after they are sent to the client
+20240603	19:04:15	e15521a3-e3de-4fad-9df0-1b0cf9125a3b	Error: Cannot set headers after they are sent to the client
+20240603	19:04:19	6e77ee5a-e4c7-44ae-964b-79600915d7e1	Error: Cannot set headers after they are sent to the client
+20240603	19:04:25	50129a77-a1ae-484c-8ee6-c0c879f5e30b	Error: Cannot set headers after they are sent to the client
+20240603	19:04:44	4af10f82-8095-4346-8383-d154329da0f5	Error: Cannot set headers after they are sent to the client
